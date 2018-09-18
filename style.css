@@ -260,7 +260,8 @@ body a:hover
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(demo-images/background_img_01b.jpg); 
+    /*background-image:url(demo-images/background_img_01b.gif); */
+    background-image:url(images/sky.jpeg);
     background-repeat: repeat; 
     background-position: center top; 
     background-size: cover;
@@ -294,7 +295,7 @@ h1.big-title
 
 .title-desc
 {
-    font-family: 'PT Serif', serif;
+    font-family: sans-serif;
     font-size: 22px;
     line-height: 26px;
     max-width: 333px; 
@@ -368,7 +369,8 @@ h1.big-title
 #portfolio
 {
     background-color: #221C5A; 
-    background-image: url("demo-images/background_img_02.jpg"); 
+    background-image: url(demo-images/item_background_01.jpg);
+    /*url("demo-images/background_img_02.jpg"); */
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto;
@@ -565,7 +567,8 @@ div.pp_default .pp_loaderIcon
 #about
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_03.jpg"); 
+    background-image: url(demo-images/item_background_01.jpg);
+    /*url("demo-images/background_img_03.jpg");*/ 
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: cover; 
@@ -889,7 +892,8 @@ a.video-popup-holder:hover img.popup-play
 #contact
 {
     background-color: rgb(34, 28, 90); 
-    background-image: url("demo-images/background_img_05b.jpg"); 
+    background-image: url(demo-images/item_background_01.jpg);
+    /*url("demo-images/background_img_05b.jpg"); */
     background-repeat: no-repeat; 
     background-position: center top; 
     background-size: auto; 
